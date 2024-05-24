@@ -1,4 +1,4 @@
-# Soulbound
+# Soulbound Token
 
 ## overview 
 This was a project assigned to me by Metacrafter in their course "ETH Proof for Beginners," where I have to create a Solidity smart contract with basic functions for minting and burning a token.
